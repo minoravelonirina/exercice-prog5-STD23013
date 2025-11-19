@@ -33,3 +33,5 @@ jobs:
           name: checkstyle-report
           path: target/checkstyle/*
           retention-days: 15
+      - name: Run tests
+        run: mvn -B clean verify

@@ -1,4 +1,4 @@
-package com.example.demo.exo;
+package com.example.demo.practice;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
